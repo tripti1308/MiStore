@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MiStore/static/css/main.fe2f0696.css",
+    "main.js": "/MiStore/static/js/main.2e8b1770.js",
+    "index.html": "/MiStore/index.html",
+    "main.fe2f0696.css.map": "/MiStore/static/css/main.fe2f0696.css.map",
+    "main.2e8b1770.js.map": "/MiStore/static/js/main.2e8b1770.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe2f0696.css",
+    "static/js/main.2e8b1770.js"
+  ]
+}
